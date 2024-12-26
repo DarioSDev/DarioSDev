@@ -1,9 +1,9 @@
-👋 Hi, I’m @DarioSantor
+👋 Hi, I’m Dario
 
 👀 I’m interested in improoving my skills to become a better developer.
 
-🌱 I’m currently an Wweb developer but I also know iOS develelopment.
+🌱 I’m currently a .NET & Web developer but I also love iOS develelopment.
 
-🎯 I have some other skills in React, JavaScript, CSS, HTML and Swift
+🎯 I have skills in Microsoft SQL Server, React, JavaScript, CSS, HTML and Swift!
 
-📫 You can reach me to dario.santos@hotmail.com
+📫 You can reach me to fsantos.dario@outlook.com
