@@ -1,9 +1,9 @@
-👋 Hi, I’m Dario
+👋 Hello world, I’m Dario!
 
-👀 I’m interested in improoving my skills to become a better developer.
-
-🌱 I’m currently a .NET & Web developer but I also love iOS develelopment.
+🌱 I’m currently a .NET full stack developer but I also love iOS development.
 
 🎯 I have skills in Microsoft SQL Server, React, JavaScript, CSS, HTML and Swift!
+
+👀 Check my portfolio -> www.dssweb.net
 
 📫 You can reach me to fsantos.dario@outlook.com
